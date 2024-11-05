@@ -1,0 +1,3 @@
+interface BookingCommand {
+    void execute();
+}
