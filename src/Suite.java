@@ -1,7 +1,6 @@
 class Suite extends Room {
     Suite() {
     }
-
     public String getType() {
         return "Suite";
     }
